@@ -2,7 +2,7 @@
 This is the source code that won the Grand Prize at the hackathon organized by pinklab on September 7, 2023.
 The task involved coding a control program to use a real robotic arm to rearrange a randomly stacked tower of blocks according to their colors and then rebuild it in the correct order.
 
-<iframe width="1280" height="752" src="https://www.youtube.com/embed/XaDWIcv2s80?list=PLx5EbqT-6Y09HxXUWvCjNI92XtDfAoq-j" title="pinklab contest demo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{% include video id="XaDWIcv2s80" provider="youtube" %}
 
 ## Quick start
 

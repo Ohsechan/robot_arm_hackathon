@@ -4,7 +4,7 @@ The task involved coding a control program to use a real robotic arm to rearrang
 
 {% include video id="XaDWIcv2s80" provider="youtube" %}
 
-<iframe width="1280" height="752" src="https://www.youtube.com/embed/XaDWIcv2s80?list=PLx5EbqT-6Y09HxXUWvCjNI92XtDfAoq-j" title="pinklab contest demo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/XaDWIcv2s80?list=PLx5EbqT-6Y09HxXUWvCjNI92XtDfAoq-j" title="pinklab contest demo 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Quick start
 

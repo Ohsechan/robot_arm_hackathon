@@ -5,7 +5,7 @@ The task involved coding a control program to use a real robotic arm to rearrang
 ## Enviornment
 - Ubuntu 22.04 Desktop
 
-## Demo
+## Demo video
 [![pinklab contest demo 1](http://img.youtube.com/vi/XaDWIcv2s80/0.jpg)](https://youtu.be/XaDWIcv2s80?t=0s)
 [![pinklab contest demo 2](http://img.youtube.com/vi/9p8cvShjsBM/0.jpg)](https://youtu.be/9p8cvShjsBM?t=0s)
 

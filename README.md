@@ -6,8 +6,8 @@ The task involved coding a control program to use a real robotic arm to rearrang
 - Ubuntu 22.04 Desktop
 
 ## Demo video
-[![pinklab contest demo 1](http://img.youtube.com/vi/XaDWIcv2s80/0.jpg)](https://youtu.be/XaDWIcv2s80?t=0s)
-[![pinklab contest demo 2](http://img.youtube.com/vi/9p8cvShjsBM/0.jpg)](https://youtu.be/9p8cvShjsBM?t=0s)
+[![영상처리를 활용한 협동로봇 제어대회 1](http://img.youtube.com/vi/XaDWIcv2s80/0.jpg)](https://youtu.be/XaDWIcv2s80?t=0s)
+[![영상처리를 활용한 협동로봇 제어대회 2](http://img.youtube.com/vi/9p8cvShjsBM/0.jpg)](https://youtu.be/9p8cvShjsBM?t=0s)
 
 ## Quick start
 

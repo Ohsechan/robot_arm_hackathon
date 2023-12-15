@@ -15,8 +15,7 @@
 - mono usb camera
 
 ## 2. 데모 영상
-[![영상처리를 활용한 협동로봇 제어대회 1](http://img.youtube.com/vi/XaDWIcv2s80/0.jpg)](https://youtu.be/XaDWIcv2s80?t=0s)
-[![영상처리를 활용한 협동로봇 제어대회 2](http://img.youtube.com/vi/9p8cvShjsBM/0.jpg)](https://youtu.be/9p8cvShjsBM?t=0s)
+[![youtube playlist](http://img.youtube.com/vi/XaDWIcv2s80/0.jpg)](https://www.youtube.com/playlist?list=PLx5EbqT-6Y09HxXUWvCjNI92XtDfAoq-j)
 
 ## 3. 실행 방법
 <pre><code># Clone Repository

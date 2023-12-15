@@ -9,7 +9,7 @@
 - 일시 : 2023.09.04 ~ 2023.09.15
 ### 1-4. 개발환경
 - Ubuntu 22.04 Desktop
-- Python : Yolov3
+- Python : Yolov3, scikit-learn
 ### 1-5. 하드웨어
 - DOBOT Magician Lite
 - mono usb camera
